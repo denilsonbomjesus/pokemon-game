@@ -1,15 +1,15 @@
 1. Map Creation with Tiled Map Editor:
-- [ ] Game Map Theory
-- [ ] Where to Find Free Game Assets
-- [ ] Download Tiled and Import a Tileset
-- [ ] Tile Brush, Paint Bucket, and Randomization
-- [ ] Landmass Formations
-- [ ] Tile Layering for a Plateau
-- [ ] Layering and Placement of Trees
-- [ ] Paths and Landscape Details
-- [ ] Collisions and Map Boundaries
-- [ ] Foreground Layers
-- [ ] Exporting Layers for Project Import
+- [x] Game Map Theory
+- [x] Where to Find Free Game Assets
+- [x] Download Tiled and Import a Tileset
+- [x] Tile Brush, Paint Bucket, and Randomization
+- [x] Landmass Formations
+- [x] Tile Layering for a Plateau
+- [x] Layering and Placement of Trees
+- [x] Paths and Landscape Details
+- [x] Collisions and Map Boundaries
+- [x] Foreground Layers
+- [x] Exporting Layers for Project Import
 
 2. Player and Map Development:
 - [ ] Programming - Project Setup
