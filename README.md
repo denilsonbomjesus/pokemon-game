@@ -12,7 +12,7 @@
 - [x] Exporting Layers for Project Import
 
 2. Player and Map Development:
-- [ ] Programming - Project Setup
+- [x] Programming - Project Setup
 - [ ] Import and Render Map
 - [ ] Player Creation
 - [ ] Move Player Through Map on Keydown
