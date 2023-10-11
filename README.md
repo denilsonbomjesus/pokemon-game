@@ -13,7 +13,7 @@
 
 2. Player and Map Development:
 - [x] Programming - Project Setup
-- [ ] Import and Render Map
+- [x] Import and Render Map
 - [ ] Player Creation
 - [ ] Move Player Through Map on Keydown
 - [ ] Player-to-Map-Boundary Collisions
