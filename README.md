@@ -14,7 +14,7 @@
 2. Player and Map Development:
 - [x] Programming - Project Setup
 - [x] Import and Render Map
-- [ ] Player Creation
+- [x] Player Creation
 - [ ] Move Player Through Map on Keydown
 - [ ] Player-to-Map-Boundary Collisions
 - [ ] Foreground Object Programming
