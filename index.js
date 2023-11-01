@@ -16,7 +16,17 @@ image.src = './assets/Pellet Town.png'
 const playerImage = new Image()
 playerImage.src = './assets/playerDown.png'
 
-image.onload = () => {
+class Sprite {
+    constructor(position) {
+        this.position = position
+    }
+    //1:54
+}
+
+// funcao que anima imagem do personagem
+function animate() {
+    window.requestAnimationFrame(animate)
+    // c.drawImage(image, -785, -650)
     c.drawImage(image, 0, 0)
     c.drawImage(
         playerImage, 
@@ -29,5 +39,28 @@ image.onload = () => {
         playerImage.width / 4, // largura real
         playerImage.height // altura real
     )
+
 }
+animate()
+
+// evento de clique com teclado
+window.addEventListener('keydown', (e) => {
+    switch (e.key) {
+        case 'w':
+            console.log('pressionou w')
+            break
+        
+        case 'a':
+            console.log('pressionou a')
+            break
+
+        case 's':
+            console.log('pressionou s')
+            break
+
+        case 'd':
+            console.log('pressionou d')
+            break
+    }
+})
 
